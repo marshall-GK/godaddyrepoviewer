@@ -1,0 +1,26 @@
+.repoListContainer {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  padding: 20px;
+  width: 300px;
+  /* border-: solid 1px grey; */
+}
+
+.repoListContainer:last-child {
+  /* height: 150px; */
+}
+
+.repoCard {
+  /* background: aliceblue; */
+  /* padding: 20px; */
+  /* border: solid 1px; */
+  /* background: aliceblue; */
+  /* padding: 20px; */
+  /* border: solid 1px; */
+  cursor: pointer;
+  /* overflow: hidden; */
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  width: 258px;
+}

@@ -1,0 +1,10 @@
+.mainContainer {
+  text-align: left;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+  height: 100vh;
+}
+.routeContainer {
+  margin-left: 360px;
+}
